@@ -1,6 +1,15 @@
 # pikachu_diy_badge
 DIY soldering kit based on pixel art pikachu pal!
 
+Here you could fine the complete project to make your own badge.
+
+Schematic
+PCB
+BOM
+
+It's a simple blinky LED circuit, just a couple of components , basicly is an oscilador made of RC circuit.
+It run from a 3.0 volts cr2032 battery.
+
 
 # PCB design contest 2020
 
