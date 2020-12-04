@@ -19,7 +19,7 @@ To made this posible I used free EasyEDA designer tool from EasyEDA.com , it int
 
 so you will have :
 
-Electronic capture / PCB LAY out / 3D modeling ( EasyEDA designer)
-PCB Fabrication ( JLCpcb.com )
-Source components ( lcsc.com )
+- Electronic capture / PCB LAY out / 3D modeling ( EasyEDA designer)
+- PCB Fabrication supplier ( JLCpcb.com )
+- Components supplier ( lcsc.com )
 
