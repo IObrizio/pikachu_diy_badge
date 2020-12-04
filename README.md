@@ -10,10 +10,10 @@ Here you could fine the complete project to make your own badge.
 It's a simple blinking LED circuit, just a couple of components , basically is an oscillator made of RC circuit.
 It run from a 3.0 volts cr2032 battery.
 
-PCB details: 
-*Black solder mask 
-*ENIG finish 
-*thickness 1.0mm to 1.6mm ( 1 mm recommended for less weight)
+# PCB details: 
+- Black solder mask 
+- ENIG finish 
+- Thickness 1.0mm to 1.6mm ( 1 mm recommended for less weight)
 
 
 # PCB design contest 2020
