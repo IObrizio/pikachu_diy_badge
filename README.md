@@ -22,6 +22,8 @@ I made this badge to practice how to solder smd parts and get a cool gadget to s
 
 To made this posible I used free EasyEDA designer tool from EasyEDA.com , it integrastes PCB fabrication with JLCPCB.com and source components from lcsc.com
 
+![Pika](https://github.com/IObrizio/pikachu_diy_badge/blob/e5b771f66241dad679ab9c16bbed376ee171336b/pika_top.PNG)
+
 so you will have :
 
 - Electronic capture / PCB LAY out / 3D modeling ( EasyEDA designer)
